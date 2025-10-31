@@ -1,0 +1,1 @@
+examples/i2v_images/wechat_test_1.jpg

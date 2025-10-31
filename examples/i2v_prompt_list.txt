@@ -1,9 +1,14 @@
-Static camera shot, wide shot, sunrise time, side lighting, warm colors. A dinosaur runs swiftly through a savanna, sunlight casting long shadows on the grassy terrain. The lions cower and scatter as the dinosaur approaches, bushes and trees swaying slightly in the breeze. The sky is a beautiful blend of orange and pink hues, highlighting the dramatic scene.
-Tracking shot, dawn time, side lighting, daylight, wide shot, cool colors. A train travels through a snowy landscape under a clear, azure sky. Snowflakes gently fall, covering the ground and clinging to the train's windows. The scenery changes rapidly as the train moves forward, revealing towering snow-covered mountains and dense forests. Trees sway slightly in the breeze, and wisps of smoke trail behind the train, adding movement to the scene.
-Daytime, sunny lighting, side lighting, medium shot, center composition. A person playing an electric guitar made of lightning stands on a stage under bright sunlight. The guitar emits vibrant, crackling light as the person strums vigorously, producing thunderous sound waves that ripple through the air. The person's hair and clothing flutter slightly due to the intense energy. The background features a darkened sky with dramatic clouds, enhancing the dynamic atmosphere.
-A man and a woman sit facing each other, their eyes locked in quiet affection. They lean forward and share a warm embrace, lingering for a moment before gently pulling apart. Smiling playfully, they then raise their hands, their fingers carefully curving to form a perfect heart shape against the golden afternoon light.
-Tracking shot, medium wide shot, daylight, side lighting, warm colors. A group of cyclists race through a forest trail, their bikes glinting under the sun. Trees and foliage rush past them, leaves rustling in the wind. The cyclists pedal vigorously, their faces set in determination. Sunlight filters through the canopy, casting dappled shadows on the forest floor.
-The camera captures the young woman as she holds a piece of paper with writing on it at chest level, her hands outstretched. With a playful spark in her eyes, she crumples the paper into a ball and brings it to her mouth, pretending to eat it. This whimsical gesture showcases her playful personality and charm, inviting viewers to join in on her fun and lighthearted energy.
-Low angle shot, hard lighting, sunrise time, warm colors. A dancer leaps gracefully into the air, their body forming a beautiful arch as sunlight streams through the sky, casting dramatic shadows. The sky is a vibrant mix of orange and pink hues, enhancing the dynamic motion of the dancer. Leaves on trees sway gently in the breeze, adding subtle movement to the background.
-First-person view, low angle shot, daytime, sunlight, hard lighting, warm colors. A cyclist rides through a bustling city street, weaving through dense traffic and pedestrians. The sun casts sharp shadows, highlighting the cyclist's determined expression as they navigate the crowded urban landscape. Cars and buses move swiftly around them, creating a dynamic scene with constant motion. Pedestrians hurry past, some stopping to watch the cyclist pass by. The vibrant cityscape is filled with colorful billboards, bright storefronts, and the sounds of honking cars and chatter.
-Aerial shot, sunrise time, daylight, warm colors, wide shot. An aerial view captures a bustling city intersection during rush hour. Cars weave through the streets in an organized chaos, while pedestrians hurry across the sidewalks. The sun rises, casting a warm glow over the scene, highlighting the vibrant colors of the vehicles and the bustling crowd. Clouds drift lazily across the sky, adding movement to the background.
+<|PROMPT|>
+一个年轻的亚洲女性游客正在繁华的纽约时代广场中心，她举着手机，屏幕中是她开心的笑脸，正准备调整角度自拍。突然，一个巨大的阴影笼罩下来，手机镜头轻微晃动，游客的笑容瞬间凝固，眼神从喜悦转为困惑。视角迅速切换，只见一个与周围建筑同样巨大的LaBuBu，全身覆盖着蓬松的棕色绒毛，正从游客身后缓缓走过。游客缓缓抬起头，嘴巴因极度震惊而张开，最终画面定格在一张荒诞又惊恐的合影上：前景是游客惊愕的脸，背景则是巨大的LaBuBu和他标志性的尖牙微笑。
+
+[Visual Style]: 电影感风格
+[Shot Type]: 近景, 特写, 全景
+[Lighting]: 日光, 高对比度
+[Composition]: 中心构图, 环境构图
+[Color Tone]: 高饱和度, 暖色调
+[Time]: 白天
+
+[Scene Design]
+[Background]: 白天的纽约时代广场，人来人往，车水马龙。周围是标志性的摩天大楼和闪烁着鲜艳广告的巨型LED屏幕，营造出一种繁忙而充满活力的都市氛围。阳光明媚，在建筑间投下清晰的阴影。
+[Subject]: 一名年轻的亚洲男性游客，黑色短发，穿着深色T恤和双肩包，表情从开心变为困惑，最后定格在极度震惊。一个巨型的LaBuBu玩偶，拥有可爱的脸庞和标志性的尖牙微笑，全身覆盖着细腻逼真的棕色长绒毛，质感蓬松柔软。
+[Camera Movement]: 首先，采用第一人称视角，镜头为 Sigma 16mm f/1.4 DC DN，使用手持摄像机拍摄，画面随着游客调整自拍角度而轻微晃动，捕捉他笑容满面的近景。然后，视角切换到第三人称低角度，镜头为 Nikon Z 24–70mm f/2.8 S，一个快速的推镜从游客困惑的表情推进至他因背后庞然大物而极度震惊的面部特写。最后，镜头切换为 Nikon Z 14-24mm f/2.8 S，以一个静态的低角度全景镜头定格，将前景中游客惊恐的脸和背景中巨大的LaBuBu以及时代广场的环境一同摄入画面，形成强烈的戏剧性对比。
